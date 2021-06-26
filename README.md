@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishab
-- 👀 I’m interested in learning new technologies, creating innovative apps and making money.
+- 👀 I’m interested in learning new technologies and making innovative apps.
 - 🌱 I’m currently learning Solr & Elastic Search.
 - 💞️ I’m looking to collaborate on a startup idea.
 - 📫 How to reach me, connect me on https://linkedin.com/in/rishabbokaria
